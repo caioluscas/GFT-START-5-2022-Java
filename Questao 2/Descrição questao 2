@@ -1,0 +1,17 @@
+Escreva um programa que implemente uma das operações de uma empresa
+de factory. Este tipo de empresa realiza a antecipação de
+recebíveis, realizando empréstimos a taxas de juros mais baixos,
+tendo como garantia algum título futuro. Para realizar a atividade,
+será necessário criar uma interface chamada IRecebivel que deverá
+conter o seguinte método, calcularValorRecebivel (Valor). Considere
+três tipos diferentes de títulos, cheques, promissórias e títulos
+do governo. Para cada um desses títulos deverá ser criada uma classe
+e todos eles devem implementar a interface. A aplicação deverá
+permitir que o usuário informe os seguintes dados para calcular o
+valor a receber: tipo do recebível, valor do recebível e prazo de
+vencimento. Para calcular o valor a ser recebido pelo usuário use
+a seguinte tabela:
+Dessa forma, ao antecipar uma promissória no valor de R$ 1.500,00
+com vencimento para 60 dias, o cliente receberá : 1.500-7,5%. Caso
+essa promissória fosse para 130 dias, então o valor a receber seria
+1.500-8,5%(+2x3%) (valor 3,0 pontos).
