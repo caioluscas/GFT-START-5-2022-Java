@@ -1,0 +1,10 @@
+Crie um programa para registrar horas trabalhadas de um grupo de
+trabalhadores e calcular seu salário. Esse programa deverá ter uma
+classe Trabalhador, e nessa classe deverão haver pelo menos os
+seguintes atributos: Nome, salarioPorHora, HorasTrabalhadas e os
+seguintes métodos: setNome, setSalarioPorHora,
+setHorasTrabalhadas, getHorasTrabalhadas, getNome,
+getSalarioPorHora e getSalarioTotal. O programa deverá permitir que
+sejam inseridos pelo menos 5 trabalhadores, e deverá permitir ao
+usuário solicitar informações de qualquer um trabalhador
+individualmente.(valor 2,0 pontos).
