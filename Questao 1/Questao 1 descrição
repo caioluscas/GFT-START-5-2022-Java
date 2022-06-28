@@ -1,0 +1,7 @@
+Escreva um programa que construa uma matriz N x M, sendo N e M
+valores informados pelo usuário. Cada uma das posições da matriz
+também deverá ser preenchida com um valor inteiro informado pelo
+usuário. Após a matriz estar completamente preenchida, o programa
+deverá apresentar para cada uma das posições, o valor imediatamente
+à sua esquerda, direita, acima e abaixo. Siga o exemplo: (valor
+3,0 pontos).
